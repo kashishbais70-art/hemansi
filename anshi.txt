@@ -1,0 +1,9 @@
+I'd be happy to help you with learning! However, I need more details. Are you looking to learn:
+
+- **Python basics**?
+- **JavaScript**?
+- **Web development**?
+- **Data structures**?
+- **Something else**?
+
+Please let me know what programming language or topic you'd like to start with, and I'll create a helpful code example for you.
